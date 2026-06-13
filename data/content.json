@@ -1,0 +1,22 @@
+{
+  "site": {
+    "tagline": "Portfolio 2026"
+  },
+  "hero": {
+    "taglineHighlight": "cinematic",
+    "freelanceNote": "Available for freelance & full-time design opportunities.",
+    "availableLabel": "Available for work",
+    "pills": ["Product Designer", "Motion Design", "Brand Identity", "UX Strategy"],
+    "specialistStat": { "value": "UI + UX", "label": "Specialist" }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": ["Years\nexperience", "Projects\ndelivered", "Happy\nclients"]
+  },
+  "footer": {
+    "eyebrow": "Available for collaborations",
+    "ctaLines": ["Designing modern", "digital products", "that feel"],
+    "ctaAccent": "alive."
+  }
+}

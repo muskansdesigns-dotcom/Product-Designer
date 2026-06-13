@@ -1,0 +1,155 @@
+{
+  "name": {
+    "first": "Rohail",
+    "last": "Designs",
+    "full": "Rohail"
+  },
+  "email": "hello@rohaildesigns.com",
+  "tagline": "Crafting cinematic digital experiences through design, motion, and storytelling.",
+  "description": "Product Designer crafting premium digital experiences — from concept to pixel-perfect interfaces that feel alive.",
+  "roles": {
+    "short": "Product Designer",
+    "detailed": "UI/UX Designer · Motion Design · Brand Identity"
+  },
+  "location": {
+    "based": "Worldwide",
+    "availability": "Worldwide"
+  },
+  "available": true,
+  "bio": "Product Designer with a passion for cinematic digital storytelling. I design intuitive, visually immersive interfaces that merge strong UX principles with premium motion design. From brand identity to full product design systems, I bridge the gap between creativity and functionality to deliver experiences that genuinely resonate.",
+  "stats": [
+    { "value": "5+",  "label": "Years Experience" },
+    { "value": "30+", "label": "Projects Completed" },
+    { "value": "15+", "label": "Happy Clients" }
+  ],
+  "skills": [
+    "Product Design",
+    "UI/UX Design",
+    "Motion Design",
+    "Brand Identity",
+    "Design Systems",
+    "Figma Expert",
+    "Interaction Design",
+    "Prototyping",
+    "Visual Design",
+    "Design Strategy",
+    "User Research",
+    "Creative Direction"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Senior Product Designer",
+      "company": "Freelance",
+      "companyShort": "FREELANCE",
+      "type": "Self-employed",
+      "location": "Remote",
+      "period": "2022",
+      "periodEnd": "Present",
+      "bullets": [
+        "Delivered end-to-end product design for SaaS platforms, mobile apps, and brand identities across 15+ international clients.",
+        "Created comprehensive design systems reducing client handoff time by 40% and ensuring pixel-perfect developer implementation.",
+        "Led motion design and interaction design projects, producing cinematic UI animations that elevated brand perception."
+      ],
+      "desc": "End-to-end product design for SaaS platforms, mobile apps, and brand identities. Design systems, motion design, and cinematic UI animations across 15+ international clients.",
+      "tech": ["Figma", "After Effects", "Lottie", "Framer", "Webflow", "Protopie", "Spline"]
+    },
+    {
+      "id": 2,
+      "role": "UI/UX Designer",
+      "company": "Digital Agency",
+      "companyShort": "AGENCY",
+      "type": "Full-time",
+      "location": "Remote",
+      "period": "2020",
+      "periodEnd": "2022",
+      "bullets": [
+        "Designed user interfaces and user experience flows for web and mobile products serving 100k+ users.",
+        "Collaborated with engineering and product teams to create scalable design systems adopted across 5+ product lines.",
+        "Conducted user research, usability testing, and iterative design sprints resulting in a 35% improvement in user retention."
+      ],
+      "desc": "UI/UX design for web and mobile products. Design systems, user research, usability testing, and design sprints driving 35% improvement in user retention.",
+      "tech": ["Figma", "Sketch", "InVision", "Zeplin", "Adobe XD", "Miro"]
+    },
+    {
+      "id": 3,
+      "role": "Visual Designer",
+      "company": "Startup",
+      "companyShort": "STARTUP",
+      "type": "Full-time",
+      "location": "Remote",
+      "period": "2019",
+      "periodEnd": "2020",
+      "bullets": [
+        "Defined visual identity, brand guidelines, and marketing design for an early-stage B2B SaaS startup.",
+        "Produced pitch decks, landing pages, and product UI that helped secure seed funding.",
+        "Established the core design language and component library used throughout the company's growth phase."
+      ],
+      "desc": "Visual identity, brand guidelines, and marketing design for a B2B SaaS startup. Landing pages and product UI helping secure seed funding.",
+      "tech": ["Figma", "Illustrator", "Photoshop", "Webflow", "Notion"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Cinematic UI Kit",
+      "subtitle": "Premium Design System & Component Library",
+      "type": "Design System",
+      "link": "https://rohaildesigns.com/",
+      "image": "/assets/project-artgenio.png",
+      "tech": ["Figma", "Auto Layout", "Variables", "Protopie", "Lottie"],
+      "desc": "A comprehensive cinematic design system built entirely in Figma with 500+ components, advanced auto-layout, design tokens, and interactive prototypes. Adopted by multiple product teams for rapid, consistent UI development."
+    },
+    {
+      "id": 2,
+      "title": "Brand Identity Suite",
+      "subtitle": "End-to-End Visual Identity & Motion Brand",
+      "type": "Branding",
+      "link": "https://rohaildesigns.com/",
+      "image": "/assets/project-easyfolio.png",
+      "tech": ["Illustrator", "After Effects", "Figma", "Spline", "Framer"],
+      "desc": "Full-scale visual identity and motion brand system for a global digital product company. Includes logo design, typography, color system, iconography, motion guidelines, and a living brand playbook."
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "Designing for Emotion: Cinematic Motion in UI",
+      "platform": "Medium",
+      "year": "2026",
+      "link": "https://rohaildesigns.com/",
+      "desc": "Exploring how cinematic motion principles from film translate into premium digital product design — pacing, easing, atmosphere, and the art of making interfaces feel truly alive."
+    },
+    {
+      "id": 2,
+      "title": "The Designer's Guide to Building a Premium Design System",
+      "platform": "Medium",
+      "year": "2025",
+      "link": "https://rohaildesigns.com/",
+      "desc": "A deep dive into building scalable, maintainable design systems in Figma — from token architecture and component structure to documentation and handoff workflows."
+    },
+    {
+      "id": 3,
+      "title": "From Wireframe to Film: Elevating Portfolio Presentation",
+      "platform": "Medium",
+      "year": "2024",
+      "link": "https://rohaildesigns.com/",
+      "desc": "How to present design work like a creative director — narrative structure, visual storytelling, motion mockups, and the mindset shift from showing work to telling a story."
+    },
+    {
+      "id": 4,
+      "title": "Micro-Interactions That Make Users Feel Something",
+      "platform": "Medium",
+      "year": "2024",
+      "link": "https://rohaildesigns.com/",
+      "desc": "A practical exploration of micro-interaction design patterns that create delight, reduce friction, and build emotional connection between users and digital products."
+    }
+  ],
+  "socials": [
+    { "label": "GitHub",    "href": "https://github.com/" },
+    { "label": "LinkedIn",  "href": "https://linkedin.com/" },
+    { "label": "Medium",    "href": "https://medium.com/" },
+    { "label": "Instagram", "href": "https://instagram.com/" },
+    { "label": "YouTube",   "href": "https://youtube.com/" }
+  ]
+}

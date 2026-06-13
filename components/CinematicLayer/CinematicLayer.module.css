@@ -1,0 +1,12 @@
+.canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  pointer-events: none;
+  /* Soft dreamy bloom on the whole particle field. */
+  filter: blur(0.4px) saturate(1.15);
+  opacity: 0.9;
+  mix-blend-mode: screen;
+}
